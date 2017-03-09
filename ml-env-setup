@@ -8,12 +8,13 @@ https://wiki.archlinux.org/index.php/git
 
 Python: 
 https://wiki.communitydata.cc/OSX_set_up_Python_(Anaconda)
+https://conda.io/docs/py2or3.html#create-a-python-2-7-environment
 
 Anaconda:
 https://www.continuum.io/
 https://www.continuum.io/downloads
 https://docs.continuum.io/anaconda/faq
-
+https://conda.io/docs/py2or3.html#create-a-python-2-7-environment
 
 Additional setup of Keras:
 https://gettocode.com/2016/12/02/keras-on-theano-and-tensorflow-on-windows-and-linux/

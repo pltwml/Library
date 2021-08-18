@@ -1,3 +1,3 @@
 # Library 
 
-Various links, readme, stuf..
+Various links, readme, stuff..
